@@ -2,7 +2,7 @@
 
 #### Data https://data.world/data-society/city-of-baltimore-crime-data
 
-### Data Description
+#### Data Description
 CrimeDate - Date when crime took place     
 CrimeTime - Time when crime has happened    
 CrimeCode - Code of crime  
@@ -19,7 +19,7 @@ Total Incidents - Number of incidents took place
 
 Data is about crimes happened in Baltimore city
 
-### Conclusion
+#### Conclusion
 1. Most of the crimes took place evening.
 2. There were less crimes commited at night hours
 3. Most commited crimes are on Fridays
