@@ -2,6 +2,10 @@
 
 #### https://data.world/data-society/city-of-baltimore-crime-data
 
+Data is about crimes happened in Baltimore city
+
+
+
 #### Data Description
 CrimeDate - Date when crime took place     
 CrimeTime - Time when crime has happened    
@@ -13,11 +17,9 @@ Weapon - Weapon used for crime
 Premise - Premise of crime location(Townhouse, Downtown, Hills etc)  
 District - District  
 Neighborhood - Neighborhood  
-Longitude - Longitude of crime location 
-Latitude - Latitude of crime location
-Total Incidents - Number of incidents took place  
-
-Data is about crimes happened in Baltimore city
+Longitude - Longitude of crime location   
+Latitude - Latitude of crime location. 
+Total Incidents - Number of incidents took place    
 
 #### Conclusion
 1. Most of the crimes took place evening.
