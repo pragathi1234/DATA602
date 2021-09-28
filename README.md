@@ -1,6 +1,6 @@
 # DATA602
 
-#### Data https://data.world/data-society/city-of-baltimore-crime-data
+#### https://data.world/data-society/city-of-baltimore-crime-data
 
 #### Data Description
 CrimeDate - Date when crime took place     
