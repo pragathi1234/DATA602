@@ -12,8 +12,8 @@ This dataset is classification problem, determining whether or not an individual
 2. Splitted data using train_test_split
 3. Created pipeline using logistic regression and standard scalar
 4. Picked metrics as recall, accuracy
-5. Ran a Logistic Regression model with grid search cross-validation using 10 folds. Search 5 different regularization strengths and 2 solvers. 
-6. Regularization strengths : 0.5,1,2,10,50(Smaller regularization strengths are more stronger)
+5. Ran a Logistic Regression model with grid search cross-validation using 10 folds. Search 5 different regularization strengths and 2 solvers.   
+6. Regularization strengths : 0.5,1,2,10,50(Smaller regularization strengths are more stronger)  
    Solvers : liblinear(Works better for smaller datasets), sag
 
 ### Conclusion
